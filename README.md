@@ -1,0 +1,1 @@
+This repository contains a Dockerfile with a common error: missing application code. The Dockerfile successfully installs dependencies but fails to run because the main application file is not copied into the image.  A corrected Dockerfile is also included, demonstrating the solution.
